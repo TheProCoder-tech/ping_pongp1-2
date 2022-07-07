@@ -1,0 +1,40 @@
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+    text-align: left;
+}
+.heading button{
+    float: right;
+    border: 1px solid white ;
+}
+#play, #status, #restart{
+    font-size: 20px;
+    font-family: monospace;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+.footer{
+    background-color: white;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    line-height: 2;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
